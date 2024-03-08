@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeSchoolHub.Infrastructur
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure.Persistance", "Infrastructure.Persistance\Infrastructure.Persistance.csproj", "{A4BA9933-D8F6-4A22-B4B4-5CD7AD1D1F4A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeSchoolHub.Test", "HomeSchoolHub.Test\HomeSchoolHub.Test.csproj", "{841B9132-5D71-4450-B3A9-04DDC201D9B7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{A4BA9933-D8F6-4A22-B4B4-5CD7AD1D1F4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A4BA9933-D8F6-4A22-B4B4-5CD7AD1D1F4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A4BA9933-D8F6-4A22-B4B4-5CD7AD1D1F4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{841B9132-5D71-4450-B3A9-04DDC201D9B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{841B9132-5D71-4450-B3A9-04DDC201D9B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{841B9132-5D71-4450-B3A9-04DDC201D9B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{841B9132-5D71-4450-B3A9-04DDC201D9B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
