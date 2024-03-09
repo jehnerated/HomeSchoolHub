@@ -1,6 +1,0 @@
-@HomeSchoolHub.Presentation_HostAddress = http://localhost:5044
-
-GET {{HomeSchoolHub.Presentation_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
