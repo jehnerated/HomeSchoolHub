@@ -31,4 +31,12 @@
     <Folder Include="Persistance\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\HomeSchoolHub.Class-Management.Application\HomeSchoolHub.ClassManagement.Application.csproj" />
+    <ProjectReference Include="..\HomeSchoolHub.Class-Management.Domain\HomeSchoolHub.ClassManagement.Domain.csproj" />
+    <ProjectReference Include="..\HomeSchoolHub.Class-Management.Infrastructure\HomeSchoolHub.ClassManagement.Infrastructure.csproj" />
+    <ProjectReference Include="..\HomeSchoolHub.Class-Management.Presentation\HomeSchoolHub.ClassManagement.Presentation.csproj" />
+    <ProjectReference Include="..\Infrastructure.Class-Management.Persistance\HomeSchoolHub.ClassManagement.Persistance.csproj" />
+  </ItemGroup>
+
 </Project>

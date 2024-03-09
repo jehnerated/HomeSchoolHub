@@ -31,4 +31,12 @@
     <Folder Include="Persistance\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\HomeSchoolHub.Authentication.Application\HomeSchoolHub.Authentication.Application.csproj" />
+    <ProjectReference Include="..\HomeSchoolHub.Authentication.Domain\HomeSchoolHub.Authentication.Domain.csproj" />
+    <ProjectReference Include="..\HomeSchoolHub.Authentication.Infrastructure\HomeSchoolHub.Authentication.Infrastructure.csproj" />
+    <ProjectReference Include="..\HomeSchoolHub.Authentication.Presentation\HomeSchoolHub.Authentication.Presentation.csproj" />
+    <ProjectReference Include="..\Infrastructure.Authentication.Persistance\HomeSchoolHub.Authentication.Persistance.csproj" />
+  </ItemGroup>
+
 </Project>

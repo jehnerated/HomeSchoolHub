@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\HomeSchoolHub.Class-Management.Application\HomeSchoolHub.ClassManagement.Application.csproj" />
+    <ProjectReference Include="..\HomeSchoolHub.Class-Management.Domain\HomeSchoolHub.ClassManagement.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
