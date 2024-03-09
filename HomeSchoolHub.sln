@@ -13,23 +13,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeSchoolHub.Authenticatio
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeSchoolHub.Authentication.Presentation", "HomeSchoolHub.Authentication\HomeSchoolHub.Authentication.Presentation\HomeSchoolHub.Authentication.Presentation.csproj", "{A0DD24ED-FEA0-4FD6-A3EB-1BFD0FE8C209}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Class-Management", "Class-Management", "{0A893F49-98AB-4634-843B-ADF40A41E1AF}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ClassManagement", "ClassManagement", "{0A893F49-98AB-4634-843B-ADF40A41E1AF}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeSchoolHub.Authentication.Test", "HomeSchoolHub.Authentication\HomeSchoolHub.Authentication.Test\HomeSchoolHub.Authentication.Test.csproj", "{B2948313-2806-4BA4-AAC2-A4A510110D0F}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeSchoolHub.Authentication.Persistance", "HomeSchoolHub.Authentication\Infrastructure.Authentication.Persistance\HomeSchoolHub.Authentication.Persistance.csproj", "{64B31F54-33B0-4C13-AADB-1079BFE369A4}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeSchoolHub.Class-Management.Application", "HomeSchoolHub.Class-Management\HomeSchoolHub.Class-Management.Application\HomeSchoolHub.Class-Management.Application.csproj", "{037C1BCD-0894-4BA3-99BD-4EB8C6BAEEE6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeSchoolHub.ClassManagement.Application", "HomeSchoolHub.Class-Management\HomeSchoolHub.Class-Management.Application\HomeSchoolHub.ClassManagement.Application.csproj", "{037C1BCD-0894-4BA3-99BD-4EB8C6BAEEE6}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeSchoolHub.Class-Management.Domain", "HomeSchoolHub.Class-Management\HomeSchoolHub.Class-Management.Domain\HomeSchoolHub.Class-Management.Domain.csproj", "{2091A9E0-C310-44F6-9D02-312E7B42E077}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeSchoolHub.ClassManagement.Domain", "HomeSchoolHub.Class-Management\HomeSchoolHub.Class-Management.Domain\HomeSchoolHub.ClassManagement.Domain.csproj", "{2091A9E0-C310-44F6-9D02-312E7B42E077}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeSchoolHub.Class-Management.Infrastructure", "HomeSchoolHub.Class-Management\HomeSchoolHub.Class-Management.Infrastructure\HomeSchoolHub.Class-Management.Infrastructure.csproj", "{65D067A7-BD1C-4DA5-A1D4-97CAEB01A4C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeSchoolHub.ClassManagement.Infrastructure", "HomeSchoolHub.Class-Management\HomeSchoolHub.Class-Management.Infrastructure\HomeSchoolHub.ClassManagement.Infrastructure.csproj", "{65D067A7-BD1C-4DA5-A1D4-97CAEB01A4C9}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeSchoolHub.Class-Management.Presentation", "HomeSchoolHub.Class-Management\HomeSchoolHub.Class-Management.Presentation\HomeSchoolHub.Class-Management.Presentation.csproj", "{F5490E64-C704-4B3D-AB09-71EEF39A5FA2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeSchoolHub.ClassManagement.Presentation", "HomeSchoolHub.Class-Management\HomeSchoolHub.Class-Management.Presentation\HomeSchoolHub.ClassManagement.Presentation.csproj", "{F5490E64-C704-4B3D-AB09-71EEF39A5FA2}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeSchoolHub.Class-Management.Test", "HomeSchoolHub.Class-Management\HomeSchoolHub.Class-Management.Test\HomeSchoolHub.Class-Management.Test.csproj", "{0252470D-A523-4F04-B0C0-AE3931C1D14C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeSchoolHub.ClassManagement.Test", "HomeSchoolHub.Class-Management\HomeSchoolHub.Class-Management.Test\HomeSchoolHub.ClassManagement.Test.csproj", "{0252470D-A523-4F04-B0C0-AE3931C1D14C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeSchoolHub.Class-Management.Persistance", "HomeSchoolHub.Class-Management\Infrastructure.Class-Management.Persistance\HomeSchoolHub.Class-Management.Persistance.csproj", "{05B5C7D8-EECE-4C28-85E1-979D67110EE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeSchoolHub.ClassManagement.Persistance", "HomeSchoolHub.Class-Management\Infrastructure.Class-Management.Persistance\HomeSchoolHub.ClassManagement.Persistance.csproj", "{05B5C7D8-EECE-4C28-85E1-979D67110EE9}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Communitcations", "Communitcations", "{0C7BF893-A16C-4424-A619-0E2DB687273D}"
 EndProject
@@ -59,33 +59,33 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeSchoolHub.Reporting.Tes
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeSchoolHub.Reporting.Persistance", "HomeSchoolHub.Reporting\Infrastructure.Reporting.Persistance\HomeSchoolHub.Reporting.Persistance.csproj", "{25E2BDFC-136F-4677-8D83-B88C03DA9B81}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Student-Management", "Student-Management", "{66980D52-DED2-4626-A1F1-7A30F696EFE6}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "StudentManagement", "StudentManagement", "{66980D52-DED2-4626-A1F1-7A30F696EFE6}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeSchoolHub.Authentication.Application", "HomeSchoolHub.Student-Management\HomeSchoolHub.Student-Management.Application\HomeSchoolHub.Authentication.Application.csproj", "{1BF15A55-41A1-47F0-BCDC-D8535C489453}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeSchoolHub.StudentManagement.Application", "HomeSchoolHub.Student-Management\HomeSchoolHub.Student-Management.Application\HomeSchoolHub.StudentManagement.Application.csproj", "{1BF15A55-41A1-47F0-BCDC-D8535C489453}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeSchoolHub.Authentication.Domain", "HomeSchoolHub.Student-Management\HomeSchoolHub.Student-Management.Domain\HomeSchoolHub.Authentication.Domain.csproj", "{7B021021-6C1F-4572-A14D-12928FE94C33}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeSchoolHub.StudentManagement.Domain", "HomeSchoolHub.Student-Management\HomeSchoolHub.Student-Management.Domain\HomeSchoolHub.StudentManagement.Domain.csproj", "{7B021021-6C1F-4572-A14D-12928FE94C33}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeSchoolHub.Authentication.Infrastructure", "HomeSchoolHub.Student-Management\HomeSchoolHub.Student-Management.Infrastructure\HomeSchoolHub.Authentication.Infrastructure.csproj", "{5284C4E7-B0E8-4ADC-A757-0D79ED39E1AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeSchoolHub.StudentManagement.Infrastructure", "HomeSchoolHub.Student-Management\HomeSchoolHub.Student-Management.Infrastructure\HomeSchoolHub.StudentManagement.Infrastructure.csproj", "{5284C4E7-B0E8-4ADC-A757-0D79ED39E1AE}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeSchoolHub.Student-Management.Persistance", "HomeSchoolHub.Student-Management\HomeSchoolHub.Student-Management.Persistance\HomeSchoolHub.Student-Management.Persistance.csproj", "{D7A73FE9-13FF-4FE3-A456-E7D586ED3071}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeSchoolHub.StudentManagement.Persistance", "HomeSchoolHub.Student-Management\HomeSchoolHub.Student-Management.Persistance\HomeSchoolHub.StudentManagement.Persistance.csproj", "{D7A73FE9-13FF-4FE3-A456-E7D586ED3071}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeSchoolHub.Student-Management.Presentation", "HomeSchoolHub.Student-Management\HomeSchoolHub.Student-Management.Presentation\HomeSchoolHub.Student-Management.Presentation.csproj", "{73543CE6-6024-4144-89A2-A61D7572ACC9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeSchoolHub.StudentManagement.Presentation", "HomeSchoolHub.Student-Management\HomeSchoolHub.Student-Management.Presentation\HomeSchoolHub.StudentManagement.Presentation.csproj", "{73543CE6-6024-4144-89A2-A61D7572ACC9}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeSchoolHub.Student-Management.Test", "HomeSchoolHub.Student-Management\HomeSchoolHub.Student-Management.Test\HomeSchoolHub.Student-Management.Test.csproj", "{BAAEE5FE-275E-45A0-A8C1-99CFD9FC6F73}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeSchoolHub.StudentManagement.Test", "HomeSchoolHub.Student-Management\HomeSchoolHub.Student-Management.Test\HomeSchoolHub.StudentManagement.Test.csproj", "{BAAEE5FE-275E-45A0-A8C1-99CFD9FC6F73}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "User-Management", "User-Management", "{D744E809-18A2-4457-8C9C-55605DDE092A}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UserManagement", "UserManagement", "{D744E809-18A2-4457-8C9C-55605DDE092A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeSchoolHub.User-Management.Application", "HomeSchoolHub.User-Management\HomeSchoolHub.User-Management.Application\HomeSchoolHub.User-Management.Application.csproj", "{13B6B9B6-23E2-456B-B54A-B55ED752719A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeSchoolHub.UserManagement.Application", "HomeSchoolHub.User-Management\HomeSchoolHub.User-Management.Application\HomeSchoolHub.UserManagement.Application.csproj", "{13B6B9B6-23E2-456B-B54A-B55ED752719A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeSchoolHub.User-Management.Domain", "HomeSchoolHub.User-Management\HomeSchoolHub.User-Management.Domain\HomeSchoolHub.User-Management.Domain.csproj", "{3254B572-1E17-4626-BF1F-F2E77D107A68}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeSchoolHub.UserManagement.Domain", "HomeSchoolHub.User-Management\HomeSchoolHub.User-Management.Domain\HomeSchoolHub.UserManagement.Domain.csproj", "{3254B572-1E17-4626-BF1F-F2E77D107A68}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeSchoolHub.User-Management.Infrastructure", "HomeSchoolHub.User-Management\HomeSchoolHub.User-Management.Infrastructure\HomeSchoolHub.User-Management.Infrastructure.csproj", "{A238D63B-CA2E-44FA-8AA9-23111D43639B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeSchoolHub.UserManagement.Infrastructure", "HomeSchoolHub.User-Management\HomeSchoolHub.User-Management.Infrastructure\HomeSchoolHub.UserManagement.Infrastructure.csproj", "{A238D63B-CA2E-44FA-8AA9-23111D43639B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeSchoolHub.User-Management.Presentation", "HomeSchoolHub.User-Management\HomeSchoolHub.User-Management.Presentation\HomeSchoolHub.User-Management.Presentation.csproj", "{18663124-6A79-419B-A1BD-388689492087}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeSchoolHub.UserManagement.Presentation", "HomeSchoolHub.User-Management\HomeSchoolHub.User-Management.Presentation\HomeSchoolHub.UserManagement.Presentation.csproj", "{18663124-6A79-419B-A1BD-388689492087}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeSchoolHub.User-Management.Test", "HomeSchoolHub.User-Management\HomeSchoolHub.User-Management.Test\HomeSchoolHub.User-Management.Test.csproj", "{C83F45C7-78DD-4061-889A-5F82517D145F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeSchoolHub.UserManagement.Test", "HomeSchoolHub.User-Management\HomeSchoolHub.User-Management.Test\HomeSchoolHub.UserManagement.Test.csproj", "{C83F45C7-78DD-4061-889A-5F82517D145F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeSchoolHub.User-Management.Persistance", "HomeSchoolHub.User-Management\Infrastructure.User-Management.Persistance\HomeSchoolHub.User-Management.Persistance.csproj", "{09F57BE2-64FE-4FC1-997F-EE708B0601F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeSchoolHub.UserManagement.Persistance", "HomeSchoolHub.User-Management\Infrastructure.User-Management.Persistance\HomeSchoolHub.UserManagement.Persistance.csproj", "{09F57BE2-64FE-4FC1-997F-EE708B0601F3}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{4C77D71B-2849-4D07-B45A-C23A3F3565F0}"
 EndProject
